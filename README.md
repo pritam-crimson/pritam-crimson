@@ -32,7 +32,7 @@ Nothing goes to production without a human saying yes.
 
 ## Here at Crimson
 
-<div align="center"><img src="assets/projects-v2.svg" width="100%" alt="Deadline Monitor, Test Score Monitor, Summer Program Monitor and UMatch Database: tech and data logic for each" /></div>
+<div align="center"><img src="assets/projects-v3.svg" width="100%" alt="Deadline Monitor, Test Score Monitor, Summer Program Monitor and UMatch Database: tech and data logic for each" /></div>
 
 
 ---
@@ -51,4 +51,4 @@ Nothing goes to production without a human saying yes.
 
 ## Education
 
-<div align="center"><img src="assets/education-v4.svg" width="100%" alt="Education" /></div>
+<div align="center"><img src="assets/education-v5.svg" width="100%" alt="Education" /></div>
