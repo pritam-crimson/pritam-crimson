@@ -45,10 +45,6 @@ Nothing goes to production without a human saying yes.
 
 *Source is private (company code).*
 
-### How I build
-
-<div align="center"><img src="assets/engineering.svg" width="100%" alt="Data engineering approach" /></div>
-
 ---
 
 ## Toolkit
