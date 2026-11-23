@@ -39,7 +39,7 @@ Nothing goes to production without a human saying yes.
 
 ## Tech Stack
 
-<div align="center"><img src="assets/skills-v2.svg" width="100%" alt="Tech Stack" /></div>
+<div align="center"><img src="assets/skills-v3.svg" width="100%" alt="Tech Stack" /></div>
 
 ---
 
