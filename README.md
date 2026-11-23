@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Pritam Laskar, Data & Automation Engineer" />
+<img src="assets/banner-v2.svg" width="100%" alt="Pritam Laskar, Data & Automation Engineer" />
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-pritamlaskar.github.io-000000?style=for-the-badge&labelColor=8B0000)](https://pritamlaskar.github.io/)
 [![Crimson](https://img.shields.io/badge/CRIMSON-EDUCATION-000000?style=for-the-badge&labelColor=8B0000)](https://github.com/crimson-education)
 
-<img src="assets/stats.svg" width="100%" alt="Stats" />
+<img src="assets/stats-v2.svg" width="100%" alt="Stats" />
 
 </div>
 
@@ -32,24 +32,23 @@ Nothing goes to production without a human saying yes.
 
 ## Here at Crimson
 
-<div align="center"><img src="assets/projects.svg" width="100%" alt="Deadline Monitor, Test Score Monitor, Summer Program Monitor and UMatch Database: tech and data logic for each" /></div>
+<div align="center"><img src="assets/projects-v2.svg" width="100%" alt="Deadline Monitor, Test Score Monitor, Summer Program Monitor and UMatch Database: tech and data logic for each" /></div>
 
-*Source is private (company code).*
 
 ---
 
 ## Tech Stack
 
-<div align="center"><img src="assets/skills.svg" width="100%" alt="Tech Stack" /></div>
+<div align="center"><img src="assets/skills-v2.svg" width="100%" alt="Tech Stack" /></div>
 
 ---
 
 ## Experience
 
-<div align="center"><img src="assets/experience.svg" width="100%" alt="Experience timeline" /></div>
+<div align="center"><img src="assets/experience-v2.svg" width="100%" alt="Experience timeline" /></div>
 
 ---
 
 ## Education
 
-<div align="center"><img src="assets/education-v3.svg" width="100%" alt="Education" /></div>
+<div align="center"><img src="assets/education-v4.svg" width="100%" alt="Education" /></div>
