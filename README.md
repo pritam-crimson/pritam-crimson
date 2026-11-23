@@ -3,7 +3,7 @@
 <img src="assets/banner-v3.svg" width="100%" alt="Pritam Laskar, Data Operations Specialist" />
 
 
-<img src="assets/stats.svg?v=186-186" width="100%" alt="Stats" />
+<img src="assets/stats.svg?v=191-191" width="100%" alt="Stats" />
 
 </div>
 
