@@ -57,4 +57,4 @@ Nothing goes to production without a human saying yes.
 
 ## Education
 
-<div align="center"><img src="assets/education.svg" width="100%" alt="Education" /></div>
+<div align="center"><img src="assets/education-v2.svg" width="100%" alt="Education" /></div>
