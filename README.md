@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-v2.svg" width="100%" alt="Pritam Laskar, Data & Automation Engineer" />
+<img src="assets/banner-v3.svg" width="100%" alt="Pritam Laskar, Data Operations Specialist" />
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-pritamlaskar.github.io-000000?style=for-the-badge&labelColor=8B0000)](https://pritamlaskar.github.io/)
 [![Crimson](https://img.shields.io/badge/CRIMSON-EDUCATION-000000?style=for-the-badge&labelColor=8B0000)](https://github.com/crimson-education)
@@ -15,7 +15,7 @@
 
 ```text
 $ whoami
-pritam, data & automation engineer
+pritam, data operations specialist
 
 $ cat about.txt
 3+ years automating real operations, from a YC-backed startup
@@ -45,7 +45,7 @@ Nothing goes to production without a human saying yes.
 
 ## Experience
 
-<div align="center"><img src="assets/experience-v2.svg" width="100%" alt="Experience timeline" /></div>
+<div align="center"><img src="assets/experience-v3.svg" width="100%" alt="Experience timeline" /></div>
 
 ---
 
