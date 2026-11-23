@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340">
 <defs>
 <radialGradient id="g" cx="88%" cy="0%" r="75%"><stop offset="0" stop-color="#b30000" stop-opacity=".6"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
-<linearGradient id="t" x1="0" x2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#7a7a7a"/></linearGradient>
+<linearGradient id="t" x1="0" x2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#b1bac4"/></linearGradient>
 <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#d60000"/><stop offset="1" stop-color="#d60000" stop-opacity="0"/></linearGradient>
 <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern>
 <style>
@@ -21,7 +21,7 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
 <rect class="scan" y="0" width="300" height="340" fill="#fff" opacity=".025"/>
 <text class="n" x="76" y="170" font-size="84" fill="url(#t)">PRITAM LASKAR</text>
 <rect x="80" y="192" width="520" height="3" fill="url(#l)"/>
-<text x="80" y="236" font-size="20" fill="#d4d4d4" letter-spacing="4">DATA &amp; AUTOMATION ENGINEER  <tspan fill="#e00000">//</tspan>  CRIMSON EDUCATION</text>
+<text x="80" y="236" font-size="20" fill="#e6edf3" letter-spacing="4">DATA &amp; AUTOMATION ENGINEER  <tspan fill="#e00000">//</tspan>  CRIMSON EDUCATION</text>
 <g font-size="22" fill="#fff">
 <text class="tag" x="80" y="288">&gt; Humans decide. Machines do the doing.<tspan class="cur" fill="#e00000">_</tspan></text>
 <text class="tag d2" x="80" y="288">&gt; Automate the boring. Keep the judgement calls.<tspan class="cur" fill="#e00000">_</tspan></text>
