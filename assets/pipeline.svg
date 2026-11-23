@@ -1,31 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="270" viewBox="0 0 1280 270">
 <defs>
-<linearGradient id="c" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#1c1c1c"/><stop offset="1" stop-color="#0a0a0a"/></linearGradient>
+<linearGradient id="c" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#1a2029"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
 <linearGradient id="r" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#a30000"/><stop offset="1" stop-color="#4d0000"/></linearGradient>
-<marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#777"/></marker>
+<marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#9aa4af"/></marker>
 <style>
 text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
 .flow{stroke-dasharray:6 6;animation:f 1s linear infinite}@keyframes f{to{stroke-dashoffset:-12}}
 .glow{animation:gl 2.4s ease-in-out infinite}@keyframes gl{50%{opacity:.55}}
 </style>
 </defs>
-<rect width="1280" height="270" rx="16" fill="#000" stroke="#222"/>
+<rect width="1280" height="270" rx="16" fill="#0d1117" stroke="#30363d"/>
 <text x="40" y="50" font-size="18" font-weight="700" fill="#ffffff" letter-spacing="4">HOW MY MONITORS WORK</text>
-<g stroke="#777" stroke-width="2" fill="none" marker-end="url(#a)" class="flow">
+<g stroke="#9aa4af" stroke-width="2" fill="none" marker-end="url(#a)" class="flow">
 <path d="M236 140H290"/><path d="M486 140H540"/><path d="M736 140H790"/><path d="M986 140H1040"/>
 </g>
 <g>
-<rect x="40" y="90" width="196" height="100" rx="12" fill="url(#c)" stroke="#2a2a2a"/>
-<text x="60" y="124" font-size="13" fill="#e00000">01</text><text x="60" y="150" font-size="18" font-weight="700" fill="#fff">FIND</text><text x="60" y="172" font-size="13" fill="#bdbdbd">official pages</text>
-<rect x="290" y="90" width="196" height="100" rx="12" fill="url(#c)" stroke="#2a2a2a"/>
-<text x="310" y="124" font-size="13" fill="#e00000">02</text><text x="310" y="150" font-size="18" font-weight="700" fill="#fff">READ</text><text x="310" y="172" font-size="13" fill="#bdbdbd">live CMS + page text</text>
-<rect x="540" y="90" width="196" height="100" rx="12" fill="url(#c)" stroke="#2a2a2a"/>
-<text x="560" y="124" font-size="13" fill="#e00000">03</text><text x="560" y="150" font-size="18" font-weight="700" fill="#fff">COMPARE</text><text x="560" y="172" font-size="13" fill="#bdbdbd">AI reads, rules decide</text>
+<rect x="40" y="90" width="196" height="100" rx="12" fill="url(#c)" stroke="#3d444d"/>
+<text x="60" y="124" font-size="13" fill="#e00000">01</text><text x="60" y="150" font-size="18" font-weight="700" fill="#fff">FIND</text><text x="60" y="172" font-size="13" fill="#c9d1d9">official pages</text>
+<rect x="290" y="90" width="196" height="100" rx="12" fill="url(#c)" stroke="#3d444d"/>
+<text x="310" y="124" font-size="13" fill="#e00000">02</text><text x="310" y="150" font-size="18" font-weight="700" fill="#fff">READ</text><text x="310" y="172" font-size="13" fill="#c9d1d9">live CMS + page text</text>
+<rect x="540" y="90" width="196" height="100" rx="12" fill="url(#c)" stroke="#3d444d"/>
+<text x="560" y="124" font-size="13" fill="#e00000">03</text><text x="560" y="150" font-size="18" font-weight="700" fill="#fff">COMPARE</text><text x="560" y="172" font-size="13" fill="#c9d1d9">AI reads, rules decide</text>
 <rect class="glow" x="786" y="86" width="204" height="108" rx="14" fill="none" stroke="#e00000" stroke-width="2"/>
 <rect x="790" y="90" width="196" height="100" rx="12" fill="url(#r)"/>
 <text x="810" y="124" font-size="13" fill="#ffb3b3">04</text><text x="810" y="150" font-size="18" font-weight="700" fill="#fff">HUMAN REVIEW</text><text x="810" y="172" font-size="12" fill="#ffd0d0">a person says yes</text>
-<rect x="1040" y="90" width="196" height="100" rx="12" fill="url(#c)" stroke="#2a2a2a"/>
-<text x="1060" y="124" font-size="13" fill="#e00000">05</text><text x="1060" y="150" font-size="18" font-weight="700" fill="#fff">PUSH</text><text x="1060" y="172" font-size="13" fill="#bdbdbd">verified and logged</text>
+<rect x="1040" y="90" width="196" height="100" rx="12" fill="url(#c)" stroke="#3d444d"/>
+<text x="1060" y="124" font-size="13" fill="#e00000">05</text><text x="1060" y="150" font-size="18" font-weight="700" fill="#fff">PUSH</text><text x="1060" y="172" font-size="13" fill="#c9d1d9">verified and logged</text>
 </g>
-<text x="640" y="238" font-size="18" fill="#e6e6e6" text-anchor="middle">Nothing reaches production unless a human approved it.</text>
+<text x="640" y="238" font-size="18" fill="#f0f6fc" text-anchor="middle">Nothing reaches production unless a human approved it.</text>
 </svg>
