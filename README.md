@@ -32,10 +32,6 @@ Nothing goes to production without a human saying yes.
 
 ## Here at Crimson
 
-<div align="center"><img src="assets/pipeline.svg" width="100%" alt="Monitor pipeline" /></div>
-
-<br/>
-
 | Project | What it does | Stack |
 |---|---|---|
 | **Deadline Monitor** | Weekly check of college application deadlines against the CMS. Mismatches go to review, approved rows get pushed live. | **Tech:** Python, GitHub Actions, Contentful, Baserow, Gemini<br/><br/>**Logic:** Idempotent diff keys, pre-write staleness check, read-back verification, undo logs, tiered archiving |
