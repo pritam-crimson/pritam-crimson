@@ -2,8 +2,6 @@
 
 <img src="assets/banner-v3.svg" width="100%" alt="Pritam Laskar, Data Operations Specialist" />
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-pritamlaskar.github.io-000000?style=for-the-badge&labelColor=8B0000)](https://pritamlaskar.github.io/)
-[![Crimson](https://img.shields.io/badge/CRIMSON-EDUCATION-000000?style=for-the-badge&labelColor=8B0000)](https://github.com/crimson-education)
 
 <img src="assets/stats.svg?v=186-186" width="100%" alt="Stats" />
 
