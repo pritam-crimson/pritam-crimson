@@ -10,22 +10,22 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
 </style>
 </defs>
 <rect width="1280" height="270" rx="16" fill="#000" stroke="#222"/>
-<text x="40" y="46" font-size="14" fill="#8a8a8a" letter-spacing="4">HOW MY MONITORS WORK  ·  EVERY WEEK, ON AUTOPILOT</text>
+<text x="40" y="50" font-size="18" font-weight="700" fill="#ffffff" letter-spacing="4">HOW MY MONITORS WORK</text>
 <g stroke="#777" stroke-width="2" fill="none" marker-end="url(#a)" class="flow">
 <path d="M236 140H290"/><path d="M486 140H540"/><path d="M736 140H790"/><path d="M986 140H1040"/>
 </g>
 <g>
 <rect x="40" y="90" width="196" height="100" rx="12" fill="url(#c)" stroke="#2a2a2a"/>
-<text x="60" y="124" font-size="13" fill="#e00000">01</text><text x="60" y="150" font-size="18" font-weight="700" fill="#fff">FIND</text><text x="60" y="172" font-size="12" fill="#8a8a8a">official pages</text>
+<text x="60" y="124" font-size="13" fill="#e00000">01</text><text x="60" y="150" font-size="18" font-weight="700" fill="#fff">FIND</text><text x="60" y="172" font-size="13" fill="#bdbdbd">official pages</text>
 <rect x="290" y="90" width="196" height="100" rx="12" fill="url(#c)" stroke="#2a2a2a"/>
-<text x="310" y="124" font-size="13" fill="#e00000">02</text><text x="310" y="150" font-size="18" font-weight="700" fill="#fff">READ</text><text x="310" y="172" font-size="12" fill="#8a8a8a">live CMS + page text</text>
+<text x="310" y="124" font-size="13" fill="#e00000">02</text><text x="310" y="150" font-size="18" font-weight="700" fill="#fff">READ</text><text x="310" y="172" font-size="13" fill="#bdbdbd">live CMS + page text</text>
 <rect x="540" y="90" width="196" height="100" rx="12" fill="url(#c)" stroke="#2a2a2a"/>
-<text x="560" y="124" font-size="13" fill="#e00000">03</text><text x="560" y="150" font-size="18" font-weight="700" fill="#fff">COMPARE</text><text x="560" y="172" font-size="12" fill="#8a8a8a">AI reads, rules decide</text>
+<text x="560" y="124" font-size="13" fill="#e00000">03</text><text x="560" y="150" font-size="18" font-weight="700" fill="#fff">COMPARE</text><text x="560" y="172" font-size="13" fill="#bdbdbd">AI reads, rules decide</text>
 <rect class="glow" x="786" y="86" width="204" height="108" rx="14" fill="none" stroke="#e00000" stroke-width="2"/>
 <rect x="790" y="90" width="196" height="100" rx="12" fill="url(#r)"/>
 <text x="810" y="124" font-size="13" fill="#ffb3b3">04</text><text x="810" y="150" font-size="18" font-weight="700" fill="#fff">HUMAN REVIEW</text><text x="810" y="172" font-size="12" fill="#ffd0d0">a person says yes</text>
 <rect x="1040" y="90" width="196" height="100" rx="12" fill="url(#c)" stroke="#2a2a2a"/>
-<text x="1060" y="124" font-size="13" fill="#e00000">05</text><text x="1060" y="150" font-size="18" font-weight="700" fill="#fff">PUSH</text><text x="1060" y="172" font-size="12" fill="#8a8a8a">verified · logged · Slack</text>
+<text x="1060" y="124" font-size="13" fill="#e00000">05</text><text x="1060" y="150" font-size="18" font-weight="700" fill="#fff">PUSH</text><text x="1060" y="172" font-size="13" fill="#bdbdbd">verified and logged</text>
 </g>
-<text x="640" y="238" font-size="14" fill="#9a9a9a" text-anchor="middle">Nothing reaches production unless a human approved it.</text>
+<text x="640" y="238" font-size="18" fill="#e6e6e6" text-anchor="middle">Nothing reaches production unless a human approved it.</text>
 </svg>
