@@ -1,8 +1,9 @@
-"""Refresh the commit tiles in the profile README from GitHub contribution data.
+"""Refresh the contribution tiles in the profile README.
 
-Month  = commits since the 1st of the current month (UTC).
-Total  = every commit since the account was created, summed in 1-year windows
-         because GitHub caps a single contribution query at one year.
+Uses the same number GitHub shows on the profile graph (contributionCalendar).
+Month  = since the 1st of the current month (UTC).
+Total  = since the account was created, summed in 1-year windows because
+         GitHub caps a single contribution query at one year.
 """
 import json, os, re, urllib.request
 from datetime import datetime, timedelta, timezone
@@ -22,9 +23,9 @@ def gql(query, variables):
 
 def commits(start, end):
     q = ('query($l:String!,$f:DateTime!,$t:DateTime!){user(login:$l){'
-         'contributionsCollection(from:$f,to:$t){totalCommitContributions}}}')
+         'contributionsCollection(from:$f,to:$t){contributionCalendar{totalContributions}}}}')
     u = gql(q, {"l": LOGIN, "f": start.isoformat(), "t": end.isoformat()})
-    return u["contributionsCollection"]["totalCommitContributions"]
+    return u["contributionsCollection"]["contributionCalendar"]["totalContributions"]
 
 
 now = datetime.now(timezone.utc)
