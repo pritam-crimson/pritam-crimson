@@ -30,7 +30,7 @@ Nothing goes to production without a human saying yes.
 
 ## Here at Crimson
 
-<div align="center"><img src="assets/projects-v5.svg" width="100%" alt="Deadline Monitor, Test Score Monitor, Summer Program Monitor and UMatch Database: tech and data logic for each" /></div>
+<div align="center"><img src="assets/projects-v6.svg" width="100%" alt="Deadline Monitor, Test Score Monitor, Summer Program Monitor and UMatch Database: tech and data logic for each" /></div>
 
 
 ---
