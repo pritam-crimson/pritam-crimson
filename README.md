@@ -3,7 +3,7 @@
 <img src="assets/banner-v3.svg" width="100%" alt="Pritam Laskar, Data Operations Specialist" />
 
 
-<img src="assets/stats.svg?v=200-200" width="100%" alt="Stats" />
+<img src="assets/stats.svg?v=199-199" width="100%" alt="Stats" />
 
 </div>
 
@@ -49,4 +49,4 @@ Nothing goes to production without a human saying yes.
 
 ## Education
 
-<div align="center"><img src="assets/education-v5.svg" width="100%" alt="Education" /></div>
+<div align="center"><img src="assets/education-v6.svg" width="100%" alt="Education" /></div>
