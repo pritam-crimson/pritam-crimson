@@ -1,7 +1,7 @@
 name: update-stats
 on:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "30 4,12 * * 1-5"  # 10:00 and 18:00 IST, Mon-Fri
   workflow_dispatch:
 permissions:
   contents: write
